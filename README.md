@@ -1,6 +1,6 @@
 # Zenith Timer: A Minimalist Pomodoro Companion
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SampleBias/Pomo-Timer--Purple-Tomato)
 
 Zenith Timer is a sophisticated, single-page web application designed to implement the Pomodoro Technique with visual excellence. It features a clean, minimalist interface centered around a large, animated circular progress indicator that provides clear visual feedback. Users can start, pause, and reset work sessions (25 minutes), short breaks (5 minutes), and long breaks (15 minutes). The application tracks completed work sessions and automatically transitions between modes, providing optional browser notifications and subtle audio cues to signal phase changes. The entire experience is crafted to be calming, intuitive, and distraction-free, helping users achieve a state of deep focus and enhanced productivity.
 
@@ -86,7 +86,7 @@ This project is configured for seamless deployment to Cloudflare Pages.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SampleBias/Pomo-Timer--Purple-Tomato)
 
 ## 📄 License
 
